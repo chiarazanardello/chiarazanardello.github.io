@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics and Business, [University of Verona](https://www.univr.it/home), 2016 - 2019
-* Erasmus+ Program, [University of Latvia](https://www.lu.lv/en/), Fall 2018
-* M.S. in Economics and Political Science, [University of Milan](https://www.unimi.it/en), 2019 - 2021
-* Research M.S. in Economics (Joint Degree), [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/research-master-in-economics-120.html), 2020 - 2021
 * Ph.D Candidate in Economics, [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/ph-d-esl.html), 2025 (expected)
     * Phd Project: Early Modern Academies, Universities, and European growth
     * Supervisor: [David de la Croix](https://perso.uclouvain.be/david.delacroix/)
+* Research M.S. in Economics (Joint Degree), [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/research-master-in-economics-120.html), 2020 - 2021
+* M.S. in Economics and Political Science, [University of Milan](https://www.unimi.it/en), 2019 - 2021
+* Erasmus+ Program, [University of Latvia](https://www.lu.lv/en/), Fall 2018
+* B.S. in Economics and Business, [University of Verona](https://www.univr.it/home), 2016 - 2019
 
 Scholarships & Grants
 ======
