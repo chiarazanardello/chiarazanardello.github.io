@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Repertorium Eruditorum Totius Europae](https://ojs.uclouvain.be/index.php/RETE/index)"
+title: "Repertorium Eruditorum Totius Europae"
 permalink: /other-publ/
 author_profile: true
 ---
