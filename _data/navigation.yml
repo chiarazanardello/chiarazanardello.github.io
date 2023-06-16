@@ -12,6 +12,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Other Publications"
+    url: /other-publ/
     
   #- title: "Portfolio"
    # url: /portfolio/
