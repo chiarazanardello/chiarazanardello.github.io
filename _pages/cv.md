@@ -28,12 +28,6 @@ Scholarships & Grants
 * Erasmus+ Study Abroad Program, 2018
 * Diritto allo Studio Universitario (DSU) (University of Verona), 2017, 2018, 2019 
 
-Skills
-======
-* Digital Skills: Microsoft Office, R, Stata, LATEX, TeamPortal, Matlab, EViews
-* Languages: Italian (mother tongue), English (proficient user), French (independent user), German (basic
-user), Spanish (basic user), Latvian (basic user)
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -52,6 +46,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Digital Skills: Microsoft Office, R, Stata, LATEX, TeamPortal, Matlab, EViews
+* Languages: Italian (mother tongue), English (proficient user), French (independent user), German (basic
+user), Spanish (basic user), Latvian (basic user)
