@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Other Publications"
+title: "Repertorium Eruditorum Totius Europae"
 permalink: /other-publ/
 author_profile: true
 ---
 {% include base_path %}
-
-Repertorium Eruditorum Totius Europae
-=====
 
 * 2023
     * de la Croix, David, and Zanardello, Chiara. Scholars and Literati at the University of Modena (1175–1800).
