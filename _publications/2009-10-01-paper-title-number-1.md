@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Market Forces in Italian Academia today (and yesterday)"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://link.springer.com/article/10.1007/s11192-022-04579-0
+excerpt: 'This paper investigates the operation of the academic market in Italy, mapping current scholars’ location choices. I build a new dataset of current professors, associating each scholar with a composite indicator of their quality. The analysis includes the quality of the university and the features of the city where the institution is located. I estimate the strength of different factors: gravity (distance), agglomeration (scholars are attracted to higher quality universities), selection (better scholars travel longer distances), and sorting (the better the scholar, the more the quality of universities is weighted). I find that all of these factors have an effect, and do not vary according to scholars’ gender. I find a greater expected utility for scholars in choosing private universities over public ones, through a consistent nesting procedure. Comparing these forces to historical trends in Italian academia, the sorting effect delineates a new momentum for the current academic market in Italy.'
+date: 2022-11-14
+venue: 'Scientometrics'
+paperurl: 'https://link.springer.com/article/10.1007/s11192-022-04579-0'
+citation: 'Zanardello, Chiara. (2022). &quot;Market Forces in Italian Academia today (and yesterday).&quot; <i>Scientometrics 128</i>, 651–698.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper investigates the operation of the academic market in Italy, mapping current scholars’ location choices. I build a new dataset of current professors, associating each scholar with a composite indicator of their quality. The analysis includes the quality of the university and the features of the city where the institution is located. I estimate the strength of different factors: gravity (distance), agglomeration (scholars are attracted to higher quality universities), selection (better scholars travel longer distances), and sorting (the better the scholar, the more the quality of universities is weighted). I find that all of these factors have an effect, and do not vary according to scholars’ gender. I find a greater expected utility for scholars in choosing private universities over public ones, through a consistent nesting procedure. Comparing these forces to historical trends in Italian academia, the sorting effect delineates a new momentum for the current academic market in Italy.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://link.springer.com/article/10.1007/s11192-022-04579-0)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Zanardello, Chiara. (2022). &quot;Market Forces in Italian Academia today (and yesterday).&quot; <i>Scientometrics 128</i>, 651–698.
