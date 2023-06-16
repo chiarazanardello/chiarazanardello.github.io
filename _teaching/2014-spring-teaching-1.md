@@ -2,7 +2,7 @@
 title: "Teaching Assistant - Advanced Macroeconomics III"
 collection: teaching
 type: "Graduate course"
-#permalink: /teaching/2014-spring-teaching-1
+permalink: 
 venue: "UCLouvain"
 date: 2023
 location: "Louvain-la-Neuve, Belgium"
