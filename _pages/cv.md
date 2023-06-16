@@ -11,34 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics and Commerce, University of Verona, 2016 - 2019
+* B.S. in Economics and Business, University of Verona, 2016 - 2019
 * Erasmus+ Program, University of Latvia, Fall 2018
 * M.S. in Economics and Political Science, University of Milan, 2019 - 2021
 * Research M.S. in Economics (Joint Degree), UCLouvain, 2020 - 2021
 * Ph.D Candidate in Economics, UCLouvain, 2025 (expected)
+    * Phd Project: Early Modern Academies, Universities, and European growth
+    * Supervisor: [David de la Croix](https://perso.uclouvain.be/david.delacroix/)
 
-  Phd Project: Early Modern Academies, Universities, and European growth (Supervisor: [David de la Croix](https://perso.uclouvain.be/david.delacroix/) )
-
-Work experience
+Scholarships & Grants
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D. Fellowship (within PDR (FRS-FNRS) – Supervisor: David de la Croix), 2023
+* Ph.D. Fellowship (within ERC grant 883033 – Supervisor: David de la Croix), 2021
+* Joint Degree Program UNIMI – UCLouvain, 2020
+* Diritto allo Studio Universitario (DSU) (University of Milan), 2020, 2021
+* Erasmus+ Study Abroad Program, 2018
+* Diritto allo Studio Universitario (DSU) (University of Verona), 2017, 2018, 2019 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Digital Skills: Microsoft Office, R, Stata, LATEX, TeamPortal, Matlab, EViews
+* Languages: Italian (mother tongue), English (proficient user), French (independent user), German (basic
+user), Spanish (basic user), Latvian (basic user)
 
 Publications
 ======
