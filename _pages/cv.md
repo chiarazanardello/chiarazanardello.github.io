@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics and Commerce, University of Verona, 2016 - 2019
+* Erasmus+ Program, University of Latvia, Fall 2018
+* M.S. in Economics and Political Science, University of Milan, 2019 - 2021
+* Research M.S. in Economics (Joint Degree), UCLouvain, 2020 - 2021
+* Ph.D Candidate in Economics, UCLouvain, 2025 (expected)
+  Phd Project: Early Modern Academies, Universities, and European growth
+  Supervisor: David de la Croix
 
 Work experience
 ======
