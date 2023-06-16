@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! I am Chiara and this is a work-in-progress research website"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
