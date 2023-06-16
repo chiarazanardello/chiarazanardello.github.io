@@ -17,7 +17,7 @@ Education
 * Research M.S. in Economics (Joint Degree), UCLouvain, 2020 - 2021
 * Ph.D Candidate in Economics, UCLouvain, 2025 (expected)
 
-  Phd Project: Early Modern Academies, Universities, and European growth (Supervisor: [David de la Croix](https://perso.uclouvain.be/david.delacroix/))
+  Phd Project: Early Modern Academies, Universities, and European growth (Supervisor: [David de la Croix](https://perso.uclouvain.be/david.delacroix/) )
 
 Work experience
 ======
