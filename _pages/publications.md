@@ -25,10 +25,10 @@ Using a novel database of Early Modern scholars, I study the influence of innova
 RETE - Repertorium Eruditorum Totius Europae
 ====
 * 2023
-    * Clément, Blandine, and Zanardello, Chiara. Scholars and Literati at the Academy of Georgofili (1753 – 1800).
+    * Clément, Blandine, and Zanardello, Chiara. Scholars and Literati at the Academy of Georgofili (1753 – 1800).\\
       DOI: [https://doi.org/10.14428/rete.v11i0/AGeorgofili](https://doi.org/10.14428/rete.v11i0/AGeorgofili)
       
-    * de la Croix, David, and Zanardello, Chiara. Scholars and Literati at the University of Modena (1175–1800).
+    * de la Croix, David, and Zanardello, Chiara. Scholars and Literati at the University of Modena (1175–1800).\\
       DOI: [https://doi.org/10.14428/rete.v9i0/UModena](https://doi.org/10.14428/rete.v9i0/UModena)
       
     * Zanardello, Chiara. Literati and Scholars at the Dissonanti Academy in Modena (1680-1800).
