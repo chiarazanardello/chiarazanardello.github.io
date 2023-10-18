@@ -43,6 +43,6 @@ Teaching
   
 Skills
 ======
-* Digital Skills: Microsoft Office, R, Stata, LATEX, TeamPortal, Matlab, EViews
+* Digital Skills: R, Stata, LATEX, TeamPortal, Matlab, EViews
 * Languages: Italian (mother tongue), English (proficient user), French (independent user), German (basic
 user), Spanish (basic user), Latvian (basic user)
