@@ -11,16 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Economics, [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/ph-d-esl.html), 2025 (expected)
-    * Phd Project: Early Modern Academies, Universities, and European growth
+* Visiting Graduate Fellow, [Northwestern University](https://economics.northwestern.edu/people/faculty/visitors.html#Z), Jan - Jun 2024
+* Ph.D Candidate in Economics, [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/ph-d-esl.html), 2021 - Present
+    * Phd Project: Essays on human capital, migration, and economic history
     * Supervisor: [David de la Croix](https://perso.uclouvain.be/david.delacroix/)
-* Research M.S. in Economics (Joint Degree), [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/research-master-in-economics-120.html), 2020 - 2021
-* M.S. in Economics and Political Science, [University of Milan](https://www.unimi.it/en), 2019 - 2021
-* Erasmus+ Program, [University of Latvia](https://www.lu.lv/en/), Fall 2018
-* B.S. in Economics and Business, [University of Verona](https://www.univr.it/home), 2016 - 2019
+    * Expected graduation: Fall 2025
+* MRes. Economics (Joint Degree), [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/research-master-in-economics-120.html), 2020 - 2021
+* M.Sc. in Economics and Political Science, [University of Milan](https://www.unimi.it/en), 2019 - 2021
+* Undergraduate Exchange Program (Erasmus+), [University of Latvia](https://www.lu.lv/en/), Fall 2018
+* B.A. in Economics and Business, [University of Verona](https://www.univr.it/home), 2016 - 2019
 
 Scholarships & Grants
 ======
+* Mobility scholarships: Scientific Stay Grant (FRS-FNRS), and Travel Grant (FWB), 2023
 * Ph.D. Fellowship (within PDR (FRS-FNRS) – Supervisor: David de la Croix), 2023
 * Ph.D. Fellowship (within ERC grant 883033 – Supervisor: David de la Croix), 2021
 * Joint Degree Program UNIMI – UCLouvain, 2020
@@ -41,6 +44,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Conferences, Workshops, Seminar presentations
+=====
+  <ul>{% for post in site.talks %}
+    {% include talks.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Digital Skills: R, Stata, LATEX, TeamPortal, Matlab, EViews
