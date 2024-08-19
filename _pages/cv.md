@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% %}
+{% include path here %}
 
 Education
 ======
