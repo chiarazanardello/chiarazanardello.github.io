@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download the PDF here](_pages/AcademicCV_Chiara_08.2024.pdf)
+[Download the PDF here](https://github.com/chiarazanardello/chiarazanardello.github.io/blob/cac200ba82e0da1c4643ea87c55805b9f4c1c090/_pages/AcademicCV_Chiara_08.2024.pdf)
 
 Education
 ======
