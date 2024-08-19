@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include path here %}
+
 Education
 ======
 * Visiting Graduate Fellow, [Northwestern University](https://economics.northwestern.edu/people/faculty/visitors.html#Z), Jan - Jun 2024
