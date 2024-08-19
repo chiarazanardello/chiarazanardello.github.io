@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{%_pages/AcademicCV_Chiara_08.2024.pdf%}
+{% %}
 
 Education
 ======
