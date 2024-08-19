@@ -13,7 +13,7 @@ My supervisor is [David de la Croix](https://perso.uclouvain.be/david.delacroix/
 
 My current research interests are economic history, human capital, and long-term growth.
 
-I visited [Northwestern University](https://www.northwestern.edu/) during Winter and Spring 2024. 
+I was visiting [Northwestern University](https://www.northwestern.edu/) during Winter and Spring 2024. 
 
 Work in Progress
 =====
