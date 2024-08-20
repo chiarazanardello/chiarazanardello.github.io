@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* Visiting Graduate Fellow, [Northwestern University](https://economics.northwestern.edu/people/faculty/visitors.html#Z), Jan - Jun 2024
 * Ph.D Candidate in Economics, [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/ph-d-esl.html), 2021 - Present
     * Phd Project: Essays on human capital, migration, and economic history
     * Supervisor: [David de la Croix](https://perso.uclouvain.be/david.delacroix/)
     * Expected graduation: Fall 2025
+* Visiting Graduate Fellow, [Northwestern University](https://economics.northwestern.edu/people/faculty/visitors.html#Z), Jan - Jun 2024
+    * Host: [Joel Mokyr](https://economics.northwestern.edu/people/directory/joel-mokyr.html)
 * MRes. Economics (Joint Degree), [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/research-master-in-economics-120.html), 2020 - 2021
 * M.Sc. in Economics and Political Science, [University of Milan](https://www.unimi.it/en), 2019 - 2021
 * Undergraduate Exchange Program (Erasmus+), [University of Latvia](https://www.lu.lv/en/), Fall 2018
