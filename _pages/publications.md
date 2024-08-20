@@ -20,12 +20,10 @@ Work in progress
 ====
 * Early Modern Academies, Universities, and Economic Growth
 
-Abstract. Using a novel micro-level database on Early Modern scholars and educational institutions, I investigate the impact of innovative knowledge on Europe's economic growth from 1500 to 1800. The establishment of academies initially leads to a decline in growth but this trend reverses in the following century. Micro-level data on scholars' fields of study reveal that literary academies contribute to an initial decline of population growth rates, an effect that dissipates over time. In contrast, scientific academies drive urban growth 15% faster after 100 years and this effect persists.
+*Abstract.* Using a novel micro-level database on Early Modern scholars and educational institutions, I investigate the impact of innovative knowledge on Europe's economic growth from 1500 to 1800. The establishment of academies initially leads to a decline in growth but this trend reverses in the following century. Micro-level data on scholars' fields of study reveal that literary academies contribute to an initial decline of population growth rates, an effect that dissipates over time. In contrast, scientific academies drive urban growth 15% faster after 100 years and this effect persists.
 Additionally, I test the historical evidence about academies fostering universities' reforms and innovations by showing that scientific academies significantly enhance the quality of universities in the same cities. Overall, this paper provides the first evidence of the pivotal role scientific academies played in Europe's economic growth and the modernization of its universities.
 
-* Salvation, Plants, and Cosmos: How Pre-modern Universities Spread Ideas
-  
-(with David de la Croix, and Rossana Scebba)
+* Salvation, Plants, and Cosmos: How Pre-modern Universities Spread Ideas *(with David de la Croix, and Rossana Scebba)*
 
 RETE - Repertorium Eruditorum Totius Europae
 ====
