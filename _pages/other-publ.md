@@ -6,7 +6,16 @@ author_profile: true
 ---
 {% include base_path %}
 
+* 2024
+    * Zanardello, Chiara. Scholars and Literati at the Academy of Sciences, Letters and Arts of Arras (1737–1793).
+      
+      DOI: [https://doi.org/10.14428/rete.v12i0/Arras](https://doi.org/10.14428/rete.v12i0/Arras)
+
 * 2023
+    * Clément, Blandine, and Zanardello, Chiara. Scholars and Literati at the Academy of Georgofili (1753 – 1800).
+      
+      DOI: [https://doi.org/10.14428/rete.v11i0/AGeorgofili](https://doi.org/10.14428/rete.v11i0/AGeorgofili)
+      
     * de la Croix, David, and Zanardello, Chiara. Scholars and Literati at the University of Modena (1175–1800).
       
       DOI: [https://doi.org/10.14428/rete.v9i0/UModena](https://doi.org/10.14428/rete.v9i0/UModena)
