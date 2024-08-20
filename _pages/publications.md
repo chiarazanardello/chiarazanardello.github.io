@@ -26,7 +26,7 @@ Additionally, I test the historical evidence about academies fostering universit
 RETE - Repertorium Eruditorum Totius Europae
 ====
 * 2024
-    * Clément, Blandine, and Zanardello, Chiara. Scholars and Literati at the Royal Naval Academy of France in Brest (1752–1793).\\
+    * Clément, Blandine, and Zanardello, Chiara. Scholars and Literati at the Royal Naval Academy of France in Brest (1752–1793).
       DOI: [https://doi.org/10.14428/rete.v13i0/ABrest](https://doi.org/10.14428/rete.v13i0/ABrest)
       
     * Zanardello, Chiara. Scholars and Literati at the Academy of Sciences, Letters and Arts of Arras (1737–1793).\\
