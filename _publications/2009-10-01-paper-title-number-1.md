@@ -12,4 +12,4 @@ This paper investigates the operation of the academic market in Italy, mapping c
 
 [Download paper here](https://link.springer.com/article/10.1007/s11192-022-04579-0)
 
-Recommended citation: Zanardello, Chiara. (2022). &quot;Market Forces in Italian Academia today (and yesterday).&quot; <i>Scientometrics 128</i>, 651–698.
+Recommended citation: Zanardello, C. Market forces in Italian academia today (and yesterday). Scientometrics 128, 651–698 (2023). [https://doi.org/10.1007/s11192-022-04579-0](https://doi.org/10.1007/s11192-022-04579-0)
