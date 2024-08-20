@@ -4,8 +4,8 @@ title: "Repertorium Eruditorum Totius Europae"
 permalink: /other-publ/
 author_profile: true
 ---
-{% include base_path %}
 
+{% include base_path %}
 
 * 2024
     * Zanardello, Chiara. Scholars and Literati at the Academy of Sciences, Letters and Arts of Arras (1737–1793).
