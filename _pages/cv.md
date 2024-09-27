@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Download my CV [here](https://chiarazanardello.github.io/files/zanardello_cv.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Download it [here](https://chiarazanardello.github.io/files/zanardello_cv.pdf)
+=====
 
 Education
 ======
