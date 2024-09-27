@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at [IRES](https://uclouvain.be/en/research-institutes/lidam/ires)/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), [UCLouvain](https://uclouvain.be/en/index.html). I am also part of the [European Doctoral Program](https://uclouvain.be/en/research-institutes/lidam/core/edp.html). 
+I am a PhD Candidate at [IRES](https://uclouvain.be/en/research-institutes/lidam/ires)/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), [UCLouvain](https://uclouvain.be/en/index.html).
 
 My current research interests are economic history, human capital, high-skill migration, and long-term growth.
 
