@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am a PhD Candidate at [IRES](https://uclouvain.be/en/research-institutes/lidam/ires)/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), [UCLouvain](https://uclouvain.be/en/index.html). I am also part of the [European Doctoral Program](https://uclouvain.be/en/research-institutes/lidam/core/edp.html). 
-My supervisor is [David de la Croix](https://perso.uclouvain.be/david.delacroix/).
 
 My current research interests are economic history, human capital, high-skill migration, and long-term growth.
 
