@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Download my CV [here](https://chiarazanardello.github.io/files/zanardello_cv.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
