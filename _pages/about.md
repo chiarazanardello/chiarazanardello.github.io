@@ -15,7 +15,7 @@ My current research interests are economic history, human capital, high-skill mi
 
 I visited [Northwestern University](https://www.northwestern.edu/) during Winter and Spring 2024. 
 
-You can find my CV [here](https://chiarazanardello.github.io/zanardello_cv.pdf).
+You can find my CV [here](https://chiarazanardello.github.io/files/zanardello_cv.pdf).
 
 Work in Progress
 =====
