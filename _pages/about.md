@@ -13,9 +13,9 @@ My supervisor is [David de la Croix](https://perso.uclouvain.be/david.delacroix/
 
 My current research interests are economic history, human capital, high-skill migration, and long-term growth.
 
-I visited [Northwestern University](https://www.northwestern.edu/) during Winter and Spring 2024. 
+I visited Northwestern University during Winter and Spring 2024. 
 
-You can find my CV [here](https://chiarazanardello.github.io/files/zanardello_cv.pdf).
+[You can find my CV here](https://chiarazanardello.github.io/files/zanardello_cv.pdf).
 My email address is: chiara.zanardello@uclouvain.be
 
 Work in Progress
