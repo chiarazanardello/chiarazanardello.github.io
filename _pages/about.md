@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at [IRES](https://uclouvain.be/en/research-institutes/lidam/ires)/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), [UCLouvain](https://uclouvain.be/en/index.html).
+I am a PhD Candidate at [IRES](https://uclouvain.be/en/research-institutes/lidam/ires)/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), [UCLouvain](https://uclouvain.be/en/index.html). I am on the 2024 Job Market.
 
 My current research interests are economic history, human capital, high-skill migration, and long-term growth.
 
@@ -17,7 +17,7 @@ I visited Northwestern University during Winter and Spring 2024.
 [You can find my CV here](https://chiarazanardello.github.io/files/zanardello_cv.pdf).
 My email address is: chiara.zanardello@uclouvain.be
 
-Work in Progress
+Job Market Paper
 =====
 
 Early Modern Academies, Universities, and Economic Growth
