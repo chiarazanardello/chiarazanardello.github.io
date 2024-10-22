@@ -1,5 +1,5 @@
 ---
-title: "FRESH Workshop ``Institutions, human capital, and long-term development: Lessons from pre-modern Europe''"
+title: "FRESH Workshop ''Institutions, human capital, and long-term development: Lessons from pre-modern Europe'' "
 collection: talks
 type: "Paper presentation"
 venue: "UCLouvain"
