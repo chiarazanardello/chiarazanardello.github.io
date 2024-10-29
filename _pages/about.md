@@ -18,7 +18,7 @@ I visited Northwestern University during Winter and Spring 2024.
 
 My email address is: chiara.zanardello@uclouvain.be
 
-Job Market Paper
+[Job Market Paper](https://chiarazanardello.github.io/files/zanardello_jmp.pdf)
 =====
 
 Early Modern Academies, Universities, and Economic Growth
