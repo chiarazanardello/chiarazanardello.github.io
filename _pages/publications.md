@@ -7,7 +7,7 @@ author_profile: true
 
 Work in progress
 ====
-[**Early Modern Academies, Universities, and Economic Growth**](https://chiarazanardello.github.io/files/zanardello_jmp.pdf)
+[**Early Modern Academies, Universities, and Economic Growth**](https://chiarazanardello.github.io/files/zanardello_jmp.pdf) (Job Market Paper)
 
 *Abstract.* Using a novel micro-level database on Early Modern scholars and educational institutions, I investigate the links between knowledge production and Europe's economic growth from 1500 to 1800. Micro-level data on scholars' fields of study reveal that literary academies contribute to an initial decline of population growth rates, an effect that dissipates over time. In contrast, scientific academies drive urban growth 15% faster after 100 years and this effect persists.
 Additionally, I test the historical evidence about academies fostering universities' reforms and innovations by showing that scientific academies associate with higher quality of universities in the same cities. Overall, this paper provides the first evidence of the pivotal role scientific academies played in Europe's economic growth and the modernization of its universities.
