@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Candidate at [IRES](https://uclouvain.be/en/research-institutes/lidam/ires)/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), [UCLouvain](https://uclouvain.be/en/index.html).
 
-My current research interests are economic history, human capital, high-skill migration, and long-term growth.
+My research interests are applied microeconomics, economic history, human capital, migration, and long-term growth.
 
 I visited Northwestern University during Winter and Spring 2024. 
 
