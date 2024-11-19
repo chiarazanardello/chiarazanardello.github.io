@@ -33,6 +33,9 @@ RETE - Repertorium Eruditorum Totius Europae
 [RETE](https://ojs.uclouvain.be/index.php/RETE/index) is a collection of data papers, summarizing information on the scholars who taught at premodern European universities or were members of scientific academies. The period covered goes from the emergence of the first universities (1000CE) to the eve of the Industrial Revolution (1800CE).
 
 * 2024
+    * Gualandris, Tifenn, Vitale, Mara, and Zanardello, Chiara. Scholars and Literati at the Agiati Academy in Rovereto (1750–1800).
+      DOI: [https://doi.org/10.14428/rete.v13i0/ARovereto](https://doi.org/10.14428/rete.v13i0/ARovereto)
+      
     * Clément, Blandine, and Zanardello, Chiara. Scholars and Literati at the Royal Naval Academy of France in Brest (1752–1793).
       DOI: [https://doi.org/10.14428/rete.v13i0/ABrest](https://doi.org/10.14428/rete.v13i0/ABrest)
       
