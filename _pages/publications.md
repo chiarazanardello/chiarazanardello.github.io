@@ -5,13 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-Work in progress
+Working Papers
 ====
-[**Early Modern Academies, Universities, and Economic Growth**](https://chiarazanardello.github.io/files/zanardello_jmp.pdf) (Job Market Paper)
+[**Early Modern Academies, Universities, and Economic Growth**](https://chiarazanardello.github.io/files/zanardello_jmp.pdf) (Job Market Paper) *LIDAM Discussion Paper - 2024/12*
 
 *Abstract.* Knowledge production is vital to modern progress, but what about the past? Pre-industrial European academic institutions are often assumed to have been flawed, with misallocated resources and talent. In this paper, I examine the role of academies, dynamic and scientifically oriented institutions that emerged between 1650 and 1800. Using new data on historical European academia and advanced difference-in-difference methods, I find that academies contributed to long-term urban growth. Exploiting individual-level data on scholars, I further show that literary academies had no long-term effect, whereas scientific academies led to persistent growth. Finally, I demonstrate that academies had positive spillover effects, both on the growth of neighboring cities and on the quality of pre-existing universities. Altogether, I provide the first empirical evidence of the pivotal role scientific academies played in Europe’s economic growth.
 
-**Salvation, Plants, and Cosmos: How Pre-modern Universities Spread Ideas** *(with David de la Croix, and Rossana Scebba)*
+Work in progress
+====
+**Salvation, Plants, and Cosmos: How Pre-modern Academia Spread Ideas** *(with David de la Croix, and Rossana Scebba)*
 
 *Abstract.* Having a few good ideas in a lifetime is not uncommon, but for those ideas to spread and evolve, a community is essential. About 200 universities operated in premodern Europe. Together with about 150 academies of sciences which blossomed in the 17th century, they employed thousands of scholars. The ideas developed by these individuals spread across time and space through these institutions. By building a network of scholars exchanging ideas through institutional affiliations (intention to treat), we demonstrate how the European academic landscape exposed cities to new ideas, influencing their development. We highlight examples such as Protestantism, Botanic Gardens, and the publication of calendars. Through counterfactual simulations, we show that both universities and academies played a crucial role, with their interaction proving especially impactful. Ideas gain significance when effectively channelled by powerful institutions.
 
