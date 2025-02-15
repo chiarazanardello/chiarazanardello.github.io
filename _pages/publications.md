@@ -13,7 +13,7 @@ Working Papers
 
 Work in progress
 ====
-**Salvation, Plants, and Cosmos: How Pre-modern Academia Spread Ideas** *(with David de la Croix, and Rossana Scebba)*
+[**Salvation, Plants, and Cosmos: How Pre-modern Academia Spread Ideas**](https://chiarazanardello.github.io/files/spread-of-ideas.pdf) *(with David de la Croix, and Rossana Scebba)*
 
 *Abstract.* Having a few good ideas in a lifetime is not uncommon, but for those ideas to spread and evolve, a community is essential. About 200 universities operated in premodern Europe. Together with about 150 academies of sciences which blossomed in the 17th century, they employed thousands of scholars. The ideas developed by these individuals spread across time and space through these institutions. By building a network of scholars exchanging ideas through institutional affiliations (intention to treat), we demonstrate how the European academic landscape exposed cities to new ideas, influencing their development. We highlight examples such as Protestantism, Botanic Gardens, and the publication of calendars. Through counterfactual simulations, we show that both universities and academies played a crucial role, with their interaction proving especially impactful. Ideas gain significance when effectively channelled by powerful institutions.
 
