@@ -14,7 +14,7 @@ My research interests are applied microeconomics, economic history, human capita
 
 I visited Northwestern University during Winter and Spring 2024. 
 
-**I am on the Academic Job Market 2024-2025. [You can find my CV here](https://chiarazanardello.github.io/files/zanardello_cv.pdf).**
+In the AY 2025-2026, I will join the Institute for Advanced Study ([IAST](https://www.iast.fr/)) at Toulouse School of Economics ([TSE](https://www.tse-fr.eu/)) as a postdoc!
 
 My email address is: chiara.zanardello@uclouvain.be
 
