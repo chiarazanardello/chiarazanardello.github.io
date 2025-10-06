@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at [IRES](https://uclouvain.be/en/research-institutes/lidam/ires)/[LIDAM](https://uclouvain.be/en/research-institutes/lidam), [UCLouvain](https://uclouvain.be/en/index.html).
+I am Postdoctoral Research Fellow at the Institute for Advanced Study and Toulouse School of Economics ([IAST](https://www.iast.fr/)/[TSE](https://www.tse-fr.eu/fr)). 
+I obtained my PhD in Economics at [UCLouvain](https://www.uclouvain.be/fr) in September 2025. 
 
-My research interests are applied microeconomics, economic history, human capital, migration, and long-term growth.
+I use applied microeconomics tools to study how people, ideas, and institutions shape long-term growth. My research explores the intersections of migration, education, innovation, and economic development over the very long run.
 
-I visited Northwestern University during Winter and Spring 2024. 
+My email address is: chiara.zanardello@iast.fr
 
-In the AY 2025-2026, I will join the Institute for Advanced Study ([IAST](https://www.iast.fr/)) at Toulouse School of Economics ([TSE](https://www.tse-fr.eu/)) as a postdoc!
-
-My email address is: chiara.zanardello@uclouvain.be
-
-[Job Market Paper](https://chiarazanardello.github.io/files/zanardello_jmp.pdf)
+[Job Market Paper 2024/2025](https://chiarazanardello.github.io/files/zanardello_jmp.pdf)
 =====
 
 Early Modern Academies, Universities, and Economic Growth
