@@ -12,12 +12,15 @@ redirect_from:
 [Download my CV here](https://chiarazanardello.github.io/files/zanardello_cv.pdf)
 =====
 
+Academic Position
+=====
+* Postdoctoral Research Fellow, [IAST](https://www.iast.fr/)-[TSE](https://www.tse-fr.eu/fr), 2025 - Present
+
 Education
 ======
-* Ph.D Candidate in Economics, [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/ph-d-esl.html), 2021 - Present
+* Ph.D Candidate in Economics, [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/ph-d-esl.html), 2021 - 2025
     * Phd Project: Human Capital and Knowledge Networks: Market Forces, Scientific Academies, and the Spread of Ideas in Early Modern Europe.
     * Supervisor: [David de la Croix](https://perso.uclouvain.be/david.delacroix/)
-    * Expected graduation: Summer 2025
 * Visiting Graduate Fellow, [Northwestern University](https://economics.northwestern.edu/people/faculty/visitors.html#Z), Jan - Jun 2024
     * Host advisor: [Joel Mokyr](https://economics.northwestern.edu/people/directory/joel-mokyr.html)
 * MRes. Economics (Joint Degree), [UCLouvain](https://uclouvain.be/en/faculties/espo/esl/research-master-in-economics-120.html), 2020 - 2021
