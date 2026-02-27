@@ -38,7 +38,7 @@ RETE - Repertorium Eruditorum Totius Europae
 ====
 [RETE](https://ojs.uclouvain.be/index.php/RETE/index) is a collection of data papers, summarizing information on the scholars who taught at premodern European universities or were members of scientific academies. The period covered goes from the emergence of the first universities (1000CE) to the eve of the Industrial Revolution (1800CE).
 
-*2025
+* 2025
     * Fabre, Alice and Zanardello, Chiara. Scholars and Literati at the Académie des belles-lettres, sciences et arts in Marseille (1726–1800). 
     DOI: [https://doi.org/10.14428/rete.v15i0/AMarseille](https://doi.org/10.14428/rete.v15i0/AMarseille)
 
