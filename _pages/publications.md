@@ -7,7 +7,7 @@ author_profile: true
 
 Working Papers
 ====
-[**Early Modern Academies, Universities, and Economic Growth**](https://chiarazanardello.github.io/files/zanardello_jmp.pdf) (Job Market Paper) *LIDAM Discussion Paper - 2024/12*
+[**Early Modern Academies, Universities, and Economic Growth**](https://chiarazanardello.github.io/files/zanardello_jmp.pdf) *LIDAM Discussion Paper - 2024/12*
 
 *Abstract.* Knowledge production is central to modern economic growth but what role did it play in the past? Despite growing interest in the history of human capital, we still know little about how knowledge shaped long-term development in pre-industrial societies. This paper studies the impact of early modern academies---research-oriented learned societies that spread across Europe between 1650 and 1800---on long-run urban growth and higher education. Drawing on newly assembled data and employing advanced difference-in-differences methods, I show that academies contributed to sustained urban growth. Using individual-level data on scholars, I demonstrate that the results are driven by scientifically oriented academies, while literary academies exhibit weaker and less robust patterns. Complementary analyses suggest that academies also affected nearby cities and improved the quality of existing universities, especially when academies had a scientific orientation. These findings provide the first empirical evidence of the pivotal role scientific academies played in shaping Europe’s long-run economic development.
 
