@@ -17,7 +17,7 @@ We also show that the spread of ideas through the affiliation network was locall
 
 You can also read our [VOX-EU column](https://cepr.org/voxeu/columns/quiet-engine-progress-scholar-networks-industrial-revolution)
 
-[**The Geography of European Knowledge: 1000-1800**](https://chiarazanardello.github.io/files/intel_zipf.pdf) *Draft available soon*
+[**The Geography of European Knowledge: 1000-1800**](https://chiarazanardello.github.io/files/intel_zipf.pdf) *(Draft available soon)*
 
 Selected Work in Progress
 ====
