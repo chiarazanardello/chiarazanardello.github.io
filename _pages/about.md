@@ -11,6 +11,6 @@ redirect_from:
 I am a Postdoctoral Research Fellow at the Institute for Advanced Study and Toulouse School of Economics ([IAST](https://www.iast.fr/)/[TSE](https://www.tse-fr.eu/fr)). 
 I obtained my PhD in Economics at [UCLouvain](https://www.uclouvain.be/fr) in September 2025. 
 
-I use applied microeconomics tools to study how people, ideas, and institutions shape long-term growth. While much of my work takes a historical perspective, my research more broadly explores questions related to migration, education, and innovation.
+My research investigates the historical foundations of knowledge: how ideas emerge, circulate, and combine into innovations, and how people and institutions shape these processes over time. I combine applied microeconomics with historical data to study questions at the intersection of education, migration, innovation, and long-run development.
 
 My email address is: chiara.zanardello@iast.fr
