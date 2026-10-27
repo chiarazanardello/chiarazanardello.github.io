@@ -11,10 +11,17 @@ Working Papers
 
 *Abstract.* Knowledge is central to modern economic growth, but what role did it play in the past? This paper studies whether Early Modern academies, research-oriented institutions that spread across Europe between 1650 and 1800, were associated with long-run growth. Using novel data on individual scholars, I show that academy creation was followed by higher urban population growth over the long run. This pattern is driven mainly by scientific academies, while literary academies show little evidence of comparable effects. Complementary analyses suggest that scientific academies were also linked to short-run positive spillovers to nearby cities and to improvements in local university quality. Overall, these findings provide new pan-European evidence consistent with scientific academies being part of Europe’s long-run development.
 
-[**Flora, Cosmos, Salvatio: Pre-modern Academic Institutions and the Spread of Ideas**](https://chiarazanardello.github.io/files/spread-of-ideas.pdf) (with David de la Croix, and Rossana Scebba) *CEPR Discussion paper DP20569*
+[**Flora, Cosmos, Salvatio: Pre-modern Academic Institutions and the Spread of Ideas**](https://chiarazanardello.github.io/files/spread-of-ideas.pdf) (with David de la Croix, and Rossana Scebba) *CEPR Discussion paper DP20569* [VOX-EU column](https://cepr.org/voxeu/columns/quiet-engine-progress-scholar-networks-industrial-revolution)
 
 *Abstract.* While good ideas can emerge anywhere, it takes a community to develop and disseminate them. In premodern Europe (1084-1793), there were approximately 200 universities and 150 academies of sciences, home to thousands of scholars from the Middle Ages to the First Industrial Revolution. By inferring co-presence from institutional affiliations, we simulate how ideas would spread from a scholar to another across the European academic network. We find that the implied exposure patterns align with observed urban developments: examples include botanic gardens, astronomical observatories, and Protestantism. Scholars' mobility and multiple affiliations sustain the diffusion, and counterfactual simulations underscore the bridging role played by scientific academies.
 We also show that the spread of ideas through the affiliation network was locally fragile but globally robust,  pointing towards academia as being a connective infrastructure underlying early European development.
+
+[**The Geography of European Knowledge: 1000-1800**](https://chiarazanardello.github.io/files/intel_zipf.pdf) *Draft available soon*
+
+Selected Work in Progress
+====
+ **Counting Houses: Mapping Late Medieval Populations using the DOMUS Model** (with Christian Vedel)
+ **How sustainable is the innovation process?** (with Ludovic Maisonneuve and Maxime Derex)
 
 Publications
 ====
