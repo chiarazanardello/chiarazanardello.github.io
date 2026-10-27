@@ -38,14 +38,11 @@ Publications
   {% include archive-single.html %}
 {% endfor %}
 
-Doctoral Dissertation
+Doctoral Dissertation 
 ====
 [**Human Capital and Knowledge Networks - Market Forces, Scientific Academies, and the Spread of Ideas in Early Modern Europe**](https://chiarazanardello.github.io/files/phd_thesis.pdf)
 
-*Abstract.* This thesis explores the long-term role of knowledge and human capital in shaping Europe’s economic development from 1000 CE to the present. While modern economies rely increasingly on engineers and entrepreneurs, this work adopts a historical lens to investigate how universities, scientific academies, and knowledge networks contributed to growth in earlier periods. The first chapter examines the Italian academic labor market, revealing patterns of job mobility, merit-based sorting, and institutional quality—both today and historically. The second chapter studies the emergence of scientific academies before 1800, showing how these institutions not only promoted economically productive talent but also drove complementary reforms in co-located universities. The final chapter analyzes pre-modern academic networks to trace the spread of ideas across institutions, leveraging affiliation data to simulate knowledge diffusion and highlight institutional influence. Through new datasets and empirical methods, this thesis offers novel insights into the historical foundations of modern knowledge economies.
-
-
-RETE - Repertorium Eruditorum Totius Europae
+Data papers
 ====
 [RETE](https://ojs.uclouvain.be/index.php/RETE/index) is a collection of data papers, summarizing information on the scholars who taught at premodern European universities or were members of scientific academies. The period covered goes from the emergence of the first universities (1000CE) to the eve of the Industrial Revolution (1800CE).
 
