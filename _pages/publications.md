@@ -18,7 +18,9 @@ We also show that the spread of ideas through the affiliation network was locall
 
 You can also read our [VOX-EU column](https://cepr.org/voxeu/columns/quiet-engine-progress-scholar-networks-industrial-revolution)
 
-[**The Geography of European Knowledge: 1000-1800**](https://chiarazanardello.github.io/files/intel_zipf.pdf) *(Draft available soon)*
+[**The Geography of European Knowledge: 1000-1800**](https://chiarazanardello.github.io/files/intel_zipf.pdf) *HAL Working Paper 05850532*
+
+*Abstract.* Between 1000 and 1800, the set of European scholars' birthplaces expanded geographically, even as their distribution became more concentrated among the leading birthplaces. At the same time, scholars' workplaces remained much more concentrated in a smaller number of cities, which is consistent with substantial lifetime mobility into academic institutions.  Unlike the distribution of scholars’ origins, the urban rank–size distribution remained relatively stable. I also show a strong correlation between the number of academic institutions and a higher concentration of the scholars’ birthplace distribution, while no comparable relationship appears for urban population.  
 
 Selected Work in Progress
 ====
